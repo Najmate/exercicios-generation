@@ -1,1 +1,1 @@
-# Exerc-cios-Generation
+# Exercícios do Curso Generation JavaScript
