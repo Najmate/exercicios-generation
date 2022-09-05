@@ -1,1 +1,1 @@
-# Exercícios do Curso Generation JavaScript
+ Exercícios do Curso Generation JavaScript
